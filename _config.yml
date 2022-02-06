@@ -155,10 +155,10 @@ yat:
 
 # Page default value
 # defaults:
-     home:
-     heading: "김재혁"
-     subheading: "광운대학교 전자통신공학과"
-     banner: "https://elcomm.kw.ac.kr/img/logo.png"
+#home:
+heading: "김재혁"
+subheading: "광운대학교 전자통신공학과"
+banner: "https://elcomm.kw.ac.kr/img/logo.png"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
